@@ -17,3 +17,9 @@
 
 ---
 
+## 📦 Requirements
+
+- Python 3.7+
+- Required libraries (install with pip):
+```bash
+pip install -r requirements.txt
