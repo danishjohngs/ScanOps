@@ -16,5 +16,5 @@ Before you run ScanOps, make sure you have the following installed on your machi
 Clone the ScanOps repository from GitHub (or download the ZIP file):
 
 ```bash
-git clone https://github.com/yourusername/ScanOps.git
+git clone https://github.com/danishjohngs/ScanOps-.git
 cd ScanOps
