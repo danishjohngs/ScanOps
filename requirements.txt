@@ -1,2 +1,9 @@
-tqdm
+socket
+ssl
+whois
 requests
+concurrent.futures
+ipaddress
+colorama
+tqdm
+dnspython
