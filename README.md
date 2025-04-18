@@ -20,7 +20,7 @@ Follow these steps to set up and use ScanOps locally.
 1. Clone the repository:
    ----------------------
    ```
-   git clone https://github.com/yourusername/ScanOps.git
+   git clone https://github.com/danishjohngs/ScanOps-.git
    cd ScanOps
 
 3. Set up a Virtual Environment (Recommended):
