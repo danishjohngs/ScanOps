@@ -1,3 +1,0 @@
-nmap for windows:  https://nmap.org/download#windows
-nmap for macos  :  https://nmap.org/download#macosx
-nmap for linux  :  https://nmap.org/download#linux-rpm
