@@ -17,13 +17,19 @@ Getting Started:
 ---------------
 Follow these steps to set up and use ScanOps locally.
 
-1. Clone the repository:
+1. Prerequisites:
+   --------------
+   Make sure you have Python 3.6+ installed. You can download it from python.org.
+   ```
+   sudo apt install python3 -y
+
+3. Clone the repository:
    ----------------------
    ```
    git clone https://github.com/danishjohngs/ScanOps-.git
    cd ScanOps
 
-3. Set up a Virtual Environment (Recommended):
+4. Set up a Virtual Environment (Recommended):
    -------------------------------------------
    For Windows:
    ```
@@ -41,7 +47,7 @@ Follow these steps to set up and use ScanOps locally.
    ```
    pip install -r requirements.txt
 
-7. Run the Tool:
+6. Run the Tool:
    --------------
    Once dependencies are installed, you're ready to run the ScanOps tool!
    ```
@@ -56,43 +62,4 @@ Once the tool starts, you will be presented with a menu that offers different sc
 3. Show Scan Report: View previous scan reports.
 4. Exit: Exit the tool.
 
-Development:
-------------
-Feel free to fork, clone, or contribute to this project! 😎 If you have any ideas for improving or expanding the functionality, open an issue or submit a pull request.
 
-Prerequisites:
---------------
-Make sure you have Python 3.6+ installed. You can download it from python.org.
-
-Dependencies:
--------------
-The tool depends on the following Python libraries:
-- socket
-- ssl
-- whois
-- requests
-- concurrent.futures
-- ipaddress
-- colorama
-- tqdm
-- dnspython
-
-License:
---------
-This project is for educational purposes only. Please use responsibly.
-
-Support & Feedback:
--------------------
-If you have any questions or run into issues, feel free to open an issue, or reach out to us via email or GitHub Discussions. We'll be happy to help! 🙌
-
-Roadmap:
---------
-- Add additional scanning techniques (e.g., TCP SYN scan, UDP scan).
-- Improve OS fingerprinting and detection.
-- Enhance UI/UX for ease of use.
-- Integrate real-time scanning for active networks.
-- Add advanced reporting options (CSV, HTML).
-
-Thank You!
------------
-Thank you for checking out ScanOps! We hope this tool helps you on your network intelligence journey. 😊
