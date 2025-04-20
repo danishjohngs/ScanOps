@@ -1,4 +1,4 @@
-ScanOps 🕵️‍♂️💻 - Network Intelligence Tool
+# ScanOps 🕵️‍♂️💻 - Network Intelligence Tool
 
 ScanOps is a powerful network intelligence and port scanning tool designed for educational purposes. This tool helps you perform detailed scans, identify operating systems, gather important network information, and more!
 
