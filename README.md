@@ -23,13 +23,27 @@ Follow these steps to set up and use ScanOps locally.
    ```
    sudo apt install python3 -y
 
-3. Clone the repository:
+2. Nmap Installation:
+   -------------------
+   nmap for windows:
+   ```
+   https://nmap.org/download#windows
+   ```
+   nmap for macos  :
+   ```
+   https://nmap.org/download#macosx
+   ```
+   nmap for linux  :
+   ```
+   https://nmap.org/download#linux-rpm   
+
+4. Clone the repository:
    ----------------------
    ```
    git clone https://github.com/danishjohngs/ScanOps-.git
    cd ScanOps
 
-4. Set up a Virtual Environment (Recommended):
+5. Set up a Virtual Environment (Recommended):
    -------------------------------------------
    For Windows:
    ```
@@ -41,13 +55,13 @@ Follow these steps to set up and use ScanOps locally.
    python3 -m venv venv
    source venv/bin/activate
 
-5. Install Dependencies:
+6. Install Dependencies:
    ----------------------
    Install the necessary Python packages listed in requirements.txt.
    ```
    pip install -r requirements.txt
 
-6. Run the Tool:
+7. Run the Tool:
    --------------
    Once dependencies are installed, you're ready to run the ScanOps tool!
    ```
